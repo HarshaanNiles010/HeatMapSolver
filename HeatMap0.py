@@ -49,6 +49,9 @@ def Pop0(arr0,index_X,index_Y):
     print(f'The new array is \n {arr0}')
     #return arr0
 
+# Still Working on this function sooner than later threading will also be introduced
+# To make things run a bit faster 
+# But for now ignore this function completely
 def Pop1(arr0,index_X,index_Y):
     pass
 
